@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Week3-LogicalOperatorsAndSwitches.iml" filepath="$PROJECT_DIR$/Week3-LogicalOperatorsAndSwitches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week3-LogicalOperators.iml" filepath="$PROJECT_DIR$/Week3-LogicalOperators.iml" />
     </modules>
   </component>
 </project>

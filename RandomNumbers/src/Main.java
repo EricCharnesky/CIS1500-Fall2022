@@ -6,11 +6,11 @@ public class Main {
         // you'll have a number 0-max not including max
         // then add 1 and you'll have 1-max, including max
 
+        double someNumber = Math.random();
+
         for( int number = 0; number < 10; number++ ) {
             int randomNumber = (int) (Math.random() * 5) + 1;
             System.out.println(randomNumber);
         }
-
-
     }
 }

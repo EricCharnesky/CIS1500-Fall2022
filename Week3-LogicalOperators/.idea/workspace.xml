@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6f828fda-21a8-4be0-9694-ab94f6312bec" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CIS1500-Fall2022.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/.idea/modules.xml" afterDir="false" />
@@ -11,6 +13,16 @@
       <change beforePath="$PROJECT_DIR$/../Chapter2/Chapter2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/Chapter2.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chapter2/src/chapter2/Chapter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/src/chapter2/Chapter2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/Loops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/Loops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/RandomNumbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/RandomNumbers.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
